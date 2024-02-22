@@ -1,6 +1,6 @@
 # Plamenný plášť
 
-*Investiture of flames*
+*Investiture of flame*
 
 ***Xanatharuv pruvodce vším***
 

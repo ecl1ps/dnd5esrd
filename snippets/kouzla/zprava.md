@@ -1,6 +1,6 @@
 # ZPRÁVA
 
-*Messege*
+*Message*
 
 ***Příručka hráče***
 

@@ -424,7 +424,7 @@ snippet-kouzla:let
 snippet-kouzla:levitace
 
 
-snippet-kouzla:lovcova-korist
+snippet-kouzla:lovcova-marka
 
 
 

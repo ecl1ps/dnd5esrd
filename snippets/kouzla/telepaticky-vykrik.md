@@ -1,6 +1,6 @@
 # Telepatický výkřik
 
-*Psycic scream*
+*Psychic scream*
 
 ***Xanatharuv pruvodce vším***
 

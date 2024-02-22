@@ -1,7 +1,7 @@
 # KŘIŽÁKOVA PELERÍNA
 
 
-*Crusader's meantle*
+*Crusader's mantle*
 
 
 ***Příručka hráče***

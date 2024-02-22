@@ -1,6 +1,6 @@
 # NIČIVÁ VLNA
 
-*Destruction wave*
+*Destructive wave*
 
 ***Příručka hráče***
 

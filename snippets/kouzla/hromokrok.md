@@ -1,6 +1,6 @@
 # Hromokrok
 
-*Thunderstep*
+*Thunder step*
  
 ***Xanatharuv pruvodce vším***
 

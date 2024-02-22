@@ -327,7 +327,7 @@ snippet-kouzla:lecive-slovo
 snippet-kouzla:ledovy-nuz
 
 
-snippet-kouzla:lovcova-korist
+snippet-kouzla:lovcova-marka
 
 
 

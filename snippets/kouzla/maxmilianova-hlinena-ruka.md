@@ -1,6 +1,6 @@
 # Maxmiliánova hliněná ruka
 
-*Maxmilian earthen grasp*
+*Maximilian's earthen grasp*
 
 ***Xanatharuv pruvodce vším***
 

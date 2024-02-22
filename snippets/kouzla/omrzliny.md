@@ -1,6 +1,6 @@
 # Omrzliny
 
-*Frost bite*
+*Frostbite*
 
 ***Xanatharuv pruvodce vším***
 

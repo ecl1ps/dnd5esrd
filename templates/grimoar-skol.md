@@ -538,7 +538,7 @@ snippet-kouzla:presny-uder-(jad)
 
 ### 1. úroveň
 
-snippet-kouzla:lovcova-korist
+snippet-kouzla:lovcova-marka
 
 snippet-kouzla:mluv-se-zviraty
 

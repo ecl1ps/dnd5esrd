@@ -1,6 +1,6 @@
 # Slovo moci „bolest"
 
-*Power word: pain*
+*Power word pain*
 
 ***Xanatharuv pruvodce vším***
 

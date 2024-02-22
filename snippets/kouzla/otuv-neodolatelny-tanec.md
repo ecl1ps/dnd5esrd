@@ -1,6 +1,6 @@
 # OTŮV NEODOLATELNÝ TANEC
 
-*Otto's irresistable dance*
+*Otto's irresistible dance*
 
 ***Příručka hráče***
 

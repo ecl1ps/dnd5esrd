@@ -1132,6 +1132,8 @@ snippet-kouzla:usetri-umirajiciho-(jad)
 
 snippet-kouzla:usetri-umirajiciho
 
+snippet-kouzla:vedeni
+
 snippet-kouzla:vedeni-(jad)
 
 ### 1. Úroveň
@@ -1410,6 +1412,8 @@ snippet-kouzla:trnovy-bic
 snippet-kouzla:tvaruj-vodu
 
 snippet-kouzla:tvaruj-zemi
+
+snippet-kouzla:vedeni
 
 snippet-kouzla:vedeni-(jad)
 

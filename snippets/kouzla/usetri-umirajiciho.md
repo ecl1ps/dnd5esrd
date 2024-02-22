@@ -1,6 +1,6 @@
 # UŠETŘI UMÍRAJÍCÍHO
 
-*Space the dying*
+*Spare the dying*
 
 ***Příručka hráče***
 

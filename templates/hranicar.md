@@ -28,7 +28,7 @@ snippet-kouzla:dobruvka
 
 snippet-kouzla:krupobiti-trnu
 
-snippet-kouzla:lovcova-korist
+snippet-kouzla:lovcova-marka
 
 snippet-kouzla:mluv-se-zviraty
 

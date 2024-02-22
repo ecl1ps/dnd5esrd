@@ -1,4 +1,4 @@
-# SLOVO MOCI „OCHROM "
+# SLOVO MOCI „OCHROM"
 
 *Power word stun*
 

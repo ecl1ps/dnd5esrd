@@ -1,6 +1,6 @@
 # Roj sněhových koulí
 
-*Snilloc’s snowball swarm*
+*Snilloc's snowball swarm*
 
 ***Xanatharuv pruvodce vším***
 

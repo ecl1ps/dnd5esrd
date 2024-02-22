@@ -1,6 +1,6 @@
 # ZLEPŠI VLASTNOST
 
-*Enchance ability*
+*Enhance ability*
 
 ***Příručka hráče***
 

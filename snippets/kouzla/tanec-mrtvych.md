@@ -1,6 +1,6 @@
 # Tanec mrtvých
 
-*Dance macabre*
+*Danse macabre*
 
 ***Xanatharuv pruvodce vším***
 

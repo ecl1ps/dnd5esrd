@@ -1,4 +1,4 @@
-# SLOVO MOCI „ZABIJ "
+# SLOVO MOCI „ZABIJ"
 
 *Power word kill*
 
